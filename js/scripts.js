@@ -1,4 +1,4 @@
 jQuery(document).ready(function($) {
 	// Stuff to do as soon as the DOM is ready;
-	alert('Ready and Waiting');
+	//alert('Ready and Waiting');
 });
