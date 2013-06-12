@@ -1,9 +1,42 @@
 body {
 	background-color: #f7f2d8;
+/*	background-image: url('images/bg2.gif');
+	background-repeat: no-repeat;*/
+
 }
 
 #wrapper{
 	max-width: 960;
 	width: 100%;
 	
+}
+
+
+#wrapper header{
+	width:100%;
+/*	background-color: #ff0000;
+*/
+}
+
+.logo {
+	/*float: left;*/
+/*	width: 90;
+	height: 104;
+*//*	background-image: url('images/logo.gif');
+*/	
+	/*background-color: green;*/
+	margin-left: 10px;
+}
+
+#navholder {
+	height: 30px;
+	clear: both;
+    display: inline;
+    height: 30px;
+*//*    margin-bottom: -20px;
+    margin-top: -20px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    z-index: 999;
 }
