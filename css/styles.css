@@ -26,7 +26,13 @@ h1 {
 
 }
 
-
+footer{
+	height: 400px;
+	display:block;
+	clear:both;
+	width:100%;
+	background-color: #8a241c;
+}
 
 #wrapper {
 	max-width: 960px;
@@ -52,6 +58,7 @@ h1 {
 	font-family: 'Enriqueta', serif;
 	max-width: 960px;
 	font-weight:bold;
+	font-size: 1.1em;
 }
 
 #nav li {
@@ -81,7 +88,7 @@ h1 {
 #subtitle {
 	width: 330px;
  	position:relative;
-	bottom:42%;
+	bottom:40%;
 	left: 104px;
 	font-family: 'Sorts Mill Goudy', serif;
 	font-style: italic;
@@ -101,3 +108,63 @@ h1 {
 	top: 100px;
 	left: 10px;
 }
+
+#blogtitle {
+	font-family: 'Raleway', sans-serif;
+	font-size: 0.8em;
+	position: relative;
+	height: 30px;
+	top: 100px;
+	left: 10px;
+/*	float: left;
+*/}
+
+#blog1 {
+	position: relative;
+	top: 65px;
+	left: 10px;
+	right: 100px;
+	float: left;
+}
+
+#fantitle {
+	font-family: 'Raleway', sans-serif;
+	font-size: 0.8em;
+	position: relative;
+	height: 30px;
+	top: 54px;
+	left: 340px;
+/*	float: left;
+*/}
+
+#fanphoto1 {
+	position: relative;
+	top: 65px;
+	left: 40px;
+}
+
+#whotitle {
+	font-family: 'Raleway', sans-serif;
+	font-size: 0.8em;
+	position: relative;
+	height: 30px;
+	top: 8px;
+/*	left: 500px;
+*/	float: right;
+}
+
+#whois1 {
+	position: absolute;
+	top: 718px;
+	left: 680px;
+	bottom: 100px;
+
+
+}
+
+
+#social {
+	float: right;
+	padding-right: 20px;
+}
+
