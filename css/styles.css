@@ -9,17 +9,20 @@ a {
     text-decoration: none;
 }
 
-a:hover 
-{
+a:hover {
      color:#f29422; 
      text-decoration:none; 
      cursor:pointer;  
 }
 
-
-
 h1 {
 	font: 400 1.6em/0.5 'Raleway', sans-serif ;
+	color: #4b2509;
+
+}
+
+h2 {
+	font: 700 1.2em/0.5 'Raleway', sans-serif ;
 	color: #4b2509;
 
 }
@@ -35,11 +38,9 @@ footer{
 #wrapper {
 	max-width: 960px;
 	height: 1200px;
-/*	margin: 0 0 0 0;
-*/}
+}
 #header {
-/*	background-color: #e4dfc7;
-*/	width: 100%;
+	width: 100%;
 	height: 104px;	
 	margin: 0 0 0 0;
 
@@ -70,9 +71,7 @@ footer{
 	height: 90px;
 	width: 104px;
 	float: left;
-/*	float: top;
-	margin: 0 0 0 0;
-*/
+
 }
 
 #title {
@@ -108,32 +107,26 @@ footer{
 }
 
 #blogtitle {
-	font-family: 'Raleway', sans-serif;
-	font-size: 0.8em;
-	position: relative;
+	position: absolute;
 	height: 30px;
-	top: 100px;
+	top: 680px;
 	left: 10px;
-/*	float: left;
-*/}
+}
 
 #blog1 {
-	position: relative;
-	top: 65px;
+	position: absolute;
+	top: 736px;
 	left: 10px;
 	right: 100px;
 	float: left;
 }
 
 #fantitle {
-	font-family: 'Raleway', sans-serif;
-	font-size: 0.8em;
-	position: relative;
+	position: absolute;
 	height: 30px;
-	top: 54px;
-	left: 340px;
-/*	float: left;
-*/}
+	top: 680px;
+	left: 350px;
+}
 
 #fanphoto1 {
     position: absolute;
@@ -141,16 +134,13 @@ footer{
     top: 736px;}
 
 #whotitle {
-	font-family: 'Raleway', sans-serif;
-	font-size: 0.8em;
 	position: absolute;
 	height: 30px;
 	width: 300px;
 	top: 680px;
-	left: 675px;
+	left: 677px;
 	
-/*	float: right;
-*/}
+}
 
 #whois1 {
 	position: absolute;
@@ -158,9 +148,7 @@ footer{
 	left: 680px;
 	bottom: 100px;
 
-
 }
-
 
 #social {
 	float: right;
