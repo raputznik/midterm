@@ -16,7 +16,7 @@ a:hover {
 }
 
 h1 {
-	font: 400 1.6em/0.5 'Raleway', sans-serif ;
+	font: 400 1.8em/0.5 'Raleway', sans-serif ;
 	color: #4b2509;
 
 }
@@ -85,7 +85,7 @@ footer{
 #subtitle {
 	width: 330px;
  	position:relative;
-	bottom:40%;
+	bottom:45%;
 	left: 104px;
 	font-family: 'Sorts Mill Goudy', serif;
 	font-style: italic;
