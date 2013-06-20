@@ -27,6 +27,13 @@ h2 {
 
 }
 
+p {
+	font: 400 0.9em/1.0 'Raleway', sans-serif ;
+	color: #ffffff;
+
+}
+
+
 footer{
 	height: 400px;
 	display:block;
@@ -119,6 +126,44 @@ footer{
 	left: 10px;
 	right: 100px;
 	float: left;
+	width: 300px;
+	height: 284px;
+	border-radius: 7px;
+	background-color: #9a1e1e;
+}
+
+#blog2 {
+	position: relative;
+	top: 27px;
+
+}
+
+#blogtext {
+	position: relative;
+	top: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+
+#blogbutt1 {
+	position: relative;
+	top: 10px;
+	left: 12em;
+	width: 61px;
+	height: 36px;
+	background-color: #f7f2d8;
+	border: none;
+}
+
+#blogbuttext1 {
+	font-family: 'Enriqueta', serif;
+	/*padding-left: 0.5em;*/
+	padding-top: 0.35em;
+
+	text-align: center;
+vertical-align: middle;
+
 }
 
 #fantitle {
@@ -131,7 +176,20 @@ footer{
 #fanphoto1 {
     position: absolute;
 	left: 350px;
-    top: 736px;}
+    top: 736px;
+	width: 300px;
+	height: 284px;
+	border-radius: 7px;
+	background-color: #d95829;
+
+}
+
+#fanpic1 {
+	position: relative;
+	top: 27px;
+
+}
+
 
 #whotitle {
 	position: absolute;
