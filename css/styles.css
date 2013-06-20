@@ -205,7 +205,17 @@ vertical-align: middle;
 	top: 736px;
 	left: 680px;
 	bottom: 100px;
+	width: 300px;
+	height: 284px;
+	border-radius: 7px;
+	background-color: #f29422;
 
+
+}
+
+#whoispic1 {
+	position: relative;
+	top: 27px;
 }
 
 #social {
