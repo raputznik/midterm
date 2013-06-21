@@ -286,3 +286,9 @@ vertical-align: middle;
 */
 
 }
+
+#twittext {
+	position: absolute;
+	top: 610px;
+	left: 70px;
+}
