@@ -27,8 +27,14 @@ h2 {
 
 }
 
+h3 {
+	font: 700 1.2em/1.2 'Raleway', sans-serif ;
+	color: #ffffff;
+
+}
+
 p {
-	font: 400 0.9em/1.0 'Raleway', sans-serif ;
+	font: 400 0.9em/1.12 'Raleway', sans-serif ;
 	color: #ffffff;
 
 }
@@ -44,7 +50,7 @@ footer{
 
 #wrapper {
 	max-width: 960px;
-	height: 1200px;
+	height: 1050px;
 }
 #header {
 	width: 100%;
@@ -91,28 +97,37 @@ footer{
 
 #subtitle {
 	width: 330px;
- 	position:relative;
-	bottom:45%;
-	left: 104px;
+ 	position:absolute;
+ 	top: 60px;
+/* 	bottom: 148px;
+*/	left: 112px;
 	font-family: 'Sorts Mill Goudy', serif;
 	font-style: italic;
 	font-size: 1em;
-	color: #4b2509
+	color: #4b2509;
 
 
 }
 
 #slider {
-	width: 940px;
+	width: 970px;
 	height: 391px;
-	position: relative;
-	top: 50px;
+	position: absolute;
+	top: 180px;
+	left: 10px;
 	background-color: #9a1e1e;
 }
 
 #twitter {
-	position: relative;
-	top: 80px;
+	position: absolute;
+	width: 970px;
+	height: 48;
+	border-style:solid;
+	border-radius: 5px;
+	border-width: 1px;
+	border-color: black;
+	background-color: #f7f2d8;
+	top: 600px;
 	left: 10px;
 }
 
@@ -225,3 +240,49 @@ vertical-align: middle;
 	padding-right: 20px;
 }
 
+#arrow-left {
+	position: absolute;
+	top: 340px;
+	left: 0px;
+}
+
+#arrow-right {
+	position: absolute;
+	top: 340px;
+	left: 942px;
+}
+
+#video1 {
+	position: relative;
+	padding-left: 340px;
+	padding-top: 17px;
+
+}
+
+#slide-p1 {
+	width: 220px;
+	height: 400px;
+	position: absolute;
+	top: 15px;
+	padding-left: 60px;
+
+}
+
+.morebutt1 {
+	position: relative;
+	top: 10px;
+	left: 10em;
+	bottom: 5em;
+	width: 61px;
+	height: 36px;
+	background-color: #f7f2d8;
+	border: none;
+}
+
+#twitterfeed {
+	font: 400 0.8em/0.5 'Verdana', sans-serif ;
+	color: #4b2509;
+/*	padding-left: 20px;
+*/
+
+}
