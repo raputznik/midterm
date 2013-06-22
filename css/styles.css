@@ -150,6 +150,11 @@ footer{
 	background-color: #9a1e1e;
 }
 
+#blog1:hover {
+	background-color: #d95829;
+
+}
+
 #blog2 {
 	position: relative;
 	top: 27px;
@@ -202,6 +207,10 @@ vertical-align: middle;
 
 }
 
+#fanphoto1:hover {
+	background-color: #f29422;
+}
+
 #fanpic1 {
 	position: relative;
 	top: 27px;
@@ -228,6 +237,10 @@ vertical-align: middle;
 	background-color: #f29422;
 
 
+}
+
+#whois1:hover {
+	background-color: #9a1e1e;
 }
 
 #whoispic1 {
