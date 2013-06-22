@@ -45,7 +45,7 @@ footer{
 	display:block;
 	clear:both;
 	width:100%;
-	background-color: #8a241c;
+	background-color: #751f10;
 }
 
 #wrapper {
@@ -291,4 +291,20 @@ vertical-align: middle;
 	position: absolute;
 	top: 610px;
 	left: 70px;
+}
+
+#footer_stuff {
+	padding: 10px 20px 0px 20px;
+}
+
+.footertext {
+	font-size: 0.7em;
+	float: left;
+/*	letter-spacing: 0.07em;
+*/}
+
+#social2 {
+	float: right;
+	padding-right: 40px;
+	top: 20px;
 }
