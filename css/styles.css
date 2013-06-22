@@ -121,7 +121,7 @@ footer{
 #twitter {
 	position: absolute;
 	width: 970px;
-	height: 48;
+	/*height: 48px;*/
 	border-style:solid;
 	border-radius: 5px;
 	border-width: 1px;
@@ -242,13 +242,13 @@ vertical-align: middle;
 
 #arrow-left {
 	position: absolute;
-	top: 340px;
+	top: 350px;
 	left: 0px;
 }
 
 #arrow-right {
 	position: absolute;
-	top: 340px;
+	top: 350px;
 	left: 942px;
 }
 
