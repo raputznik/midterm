@@ -49,6 +49,7 @@ footer{
 }
 
 #wrapper {
+	margin: 10px auto;
 	max-width: 960px;
 	height: 1050px;
 }
